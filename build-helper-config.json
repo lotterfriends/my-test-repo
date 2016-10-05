@@ -2,6 +2,6 @@
   "commitURL": "https://github.com/lotterfriends/my-test-repo/commit",
   "releaseURL": "https://github.com/lotterfriends/my-test-repo/releases/tag",
   "buildTimestampInName": false,
-  "neverendingChangelog": true,
+  "neverendingChangelog": false,
   "debug": true
 }
