@@ -1,0 +1,24 @@
+{
+  "name": "my-test-repo",
+  "version": "1.0.0",
+  "description": "just for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotterfriends/my-test-repo.git"
+  },
+  "keywords": [
+    "test",
+    "bla",
+    "keks"
+  ],
+  "author": "André Tarnowsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lotterfriends/my-test-repo/issues"
+  },
+  "homepage": "https://github.com/lotterfriends/my-test-repo#readme"
+}
