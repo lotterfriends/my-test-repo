@@ -1,3 +1,11 @@
+# my-test-repo 
+
+## 2016-10-05, [v1.0.2](https://github.com/lotterfriends/my-test-repo/releases/tag/1.0.2)
+
+*Created by: André Tarnowsky*
+
+### Commits
+  - [[`bc06fcbafe`](https://github.com/lotterfriends/my-test-repo/commit/bc06fcbafe46f66c01bf7a1ebde5a897af40d536)] - add file2 (André Tarnowsky)
 ## 2016-10-05, [v1.0.1](https://github.com/lotterfriends/my-test-repo/releases/tag/1.0.1)
 
 *Created by: André Tarnowsky*
