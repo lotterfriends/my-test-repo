@@ -1,5 +1,13 @@
 # my-test-repo 
 
+## 2016-10-05, [v1.0.4](https://github.com/lotterfriends/my-test-repo/releases/tag/1.0.4)
+
+*Created by: André Tarnowsky*
+
+### Commits
+  - [[`c3ccd4dd20`](https://github.com/lotterfriends/my-test-repo/commit/c3ccd4dd205eb2d37382ff4ed833089ac456b91d)] - **config**: change changelog type (André Tarnowsky)
+
+
 ## 2016-10-05, [v1.0.3](https://github.com/lotterfriends/my-test-repo/releases/tag/1.0.3)
 
 *Created by: André Tarnowsky*
