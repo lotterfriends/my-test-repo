@@ -1,6 +1,6 @@
 {
   "name": "my-test-repo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just for testing",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/lotterfriends/my-test-repo/issues"
   },
-  "homepage": "https://github.com/lotterfriends/my-test-repo#readme"
+  "homepage": "https://github.com/lotterfriends/my-test-repo#readme",
+  "buildTimestamp": 1475670346163
 }
