@@ -1,0 +1,17 @@
+{
+  "commitURL": "https://github.com/lotterfriends/my-test-repo/commit",
+  "releaseURL": "https://github.com/lotterfriends/my-test-repo/releases/tag",
+  "buildTimestampInName": true,
+  "neverendingChangelog": false,
+  "debug": true,
+  "customReleaseCommands": [
+    "echo customReleaseCommands1",
+    "echo customReleaseCommands2"
+  ],
+  "postReleaseCommands": [
+    "echo customReleaseCommands1",
+    "echo customReleaseCommands2",
+    "echo customReleaseCommands3",
+    "echo customReleaseCommands4"
+  ]
+}
